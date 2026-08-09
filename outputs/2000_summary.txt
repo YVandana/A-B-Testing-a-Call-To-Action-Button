@@ -1,0 +1,18 @@
+
+A/B Test Report - CTA Button Experiment
+---------------------------------------
+
+Date: 2026-07-26 02:19
+Total Sessions: 2000
+Control Sessions: 1014, Treatment Sessions: n_t
+
+Conversion Rates:
+- Control: 0.0937 (95 clicks / 1014 views)
+- Treatment: 0.1166 (115 clicks / 986 views)
+- Absolute Lift: 0.0229
+- Realtive Lift: 0.24
+- 95% CI for difference" [-0.0039, 0.0498]
+- p-value: 0.0942
+
+Statstical Test: Two-proportion z-test (two-sided), alpha = 0.05
+Conclusion: Not Significant

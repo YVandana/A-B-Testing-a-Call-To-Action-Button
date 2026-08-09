@@ -1,0 +1,27 @@
+@"
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Notes
+Notes/
+*.png
+
+# App Traffic
+code/app_traffic/
+generate_traffic.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+"@ | Out-File -FilePath .gitignore -Encoding UTF8
